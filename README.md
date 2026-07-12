@@ -29,8 +29,11 @@ Every part has the **same four beats** — do them in order:
 
 > 🎓 **Learn** — read the concept and, where you see a **▶ WATCH** box, watch the
 > short video *before continuing*.
+> 
 > 🗡️ **Attack** — follow the numbered steps to run a real exploit.
+>
 > 🛠️ **Fix** — apply the mitigation using the recipe given.
+>
 > ✅ **Check** — confirm the exploit now fails and normal use still works.
 
 The vulnerable code is **labelled for you**: search the source for `VULN [V1]`,
